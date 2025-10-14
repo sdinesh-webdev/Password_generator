@@ -5,6 +5,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)
 ![Security](https://img.shields.io/badge/AES--256-Encrypted-red?style=for-the-badge&logo=letsencrypt)
 
+<img src="https://oabk6vpcyt3tfpux.public.blob.vercel-storage.com/password-generator.webp"/>
+
 > **Enterprise-grade password manager** with **client-side AES-256 encryption** — your passwords never leave your device unencrypted.
 
 ---
