@@ -26,7 +26,7 @@
 A **production-ready password manager** built with **security as the top priority**.  
 It features **client-side encryption**, **secure password generation**, and a **zero-knowledge architecture**, ensuring your data remains private — even from the server.
 
-🔗 **Live Demo:** [Your Demo URL]
+🔗 **Live Demo:** [ https://password-generator-five-delta-31.vercel.app/ ]
 
 ---
 
